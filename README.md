@@ -2,7 +2,7 @@
 
 Passionate about leveraging cutting-edge technology to create scalable, efficient, and innovative solutions.
 
-- 🔭 I’m currently working on an e-learning application for STEM students
+- 🔭 I’m currently working on an e-learning application for STEM students powered by Generative AI
 - 🗂️ check out my <a href="https://www.roxanaprojects.tech" target="_blank">coding portfolio</a>
 - 📩 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roxanarvk)
 
